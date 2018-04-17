@@ -8,7 +8,7 @@ Here are some of my research and expository papers in computer science and econo
 
 ## Computer Science
 
-*   [Shor's Algorithm](/assets/pdf/Shor.pdf) <id = "abcd">
+*   [Shor's Algorithm](/assets/pdf/Shor.pdf)
 
 This paper introduces quantum computing and proves Shor's quantum computing algorithm for breaking RSA encryption. I like the fact that it is self-contained.
 
@@ -26,7 +26,7 @@ This was my undergraduate senior thesis, under the guidance of professors [Eric 
 
 In an earlier paper, Maskin and Dasgupta provide an efficient auction setup for the case of multiple goods, common values and one-dimensional signals. I provide an efficient auction setup for multi-dimensional goods as well, under a linear utility restriction.
 
-* [Preference cycles in stable matchings](/assets/pdf/Prefcycle.pdf) <id = "xyzt">
+* [Preference cycles in stable matchings](/assets/pdf/Prefcycle.pdf)
 
 One of the problems I have been thinking about is how to connect the preference profile of a set of agents to the set of corresponding stable matchings. There are a few results about properties of stable matchings (in 1-1 matching, for example, there always exists a stable matching, and in case there are multiple stable matchings, the set of matched agents is invariant). In this paper I introduce a combinatorial object which ties any two stable matchings, and prove a number of fundamental results from matching theory in an elementary way.
 
