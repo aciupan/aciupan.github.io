@@ -6,18 +6,18 @@ permalink: /papers/
 Here are some of my research and expository papers in computer science and economics.
 
 
+<a name="cs"></a>
 ## Computer Science
 
-<a name="shor"></a>
 *   [Shor's Algorithm](/assets/pdf/Shor.pdf)
 
 This paper introduces quantum computing and proves Shor's quantum computing algorithm for breaking RSA encryption. I like the fact that it is self-contained.
 
-<a name="derand"></a>
 *   [Derandomized Squaring of Graphs](/assets/pdf/Derandsq.pdf)
 
 This is the final project for a computational complexity course (cs 221). We describe the [paper of Rozeman and Vadhan](https://people.seas.harvard.edu/~salil/research/derand_squaring-abs.html). They introduce a new technique for proving that S-T connectivity can be solved in logspace.
 
+<a name="econ"></a>
 ## Economics
 
 I have done research in auction theory and market design, with professors [Eric Maskin](https://scholar.harvard.edu/maskin/home) and [Scott Kominers](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905)
