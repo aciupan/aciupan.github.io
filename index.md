@@ -19,12 +19,9 @@ description: Andrei Ciupan
   </div>
 </div>
 
-<img src="{{site.logo}}" style="float:left"/>
-This text appears to the right of the image.
+<p>This text appears to the right of the image.
 dddddddddddddddddddddddddddddddddddddddd
-ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-<br clear=”left” />
-ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd. <img src="{{site.logo}}" align="right"> </p> 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
