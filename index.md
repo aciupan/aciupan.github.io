@@ -4,6 +4,9 @@ title: Andrei Ciupan
 tagline: Andrei Ciupan
 description: Andrei Ciupan
 ---
+{% if site.logo %}
+          <img src="{{site.logo | site.github.owner_url}}" alt="Logo" />
+        {% endif %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
