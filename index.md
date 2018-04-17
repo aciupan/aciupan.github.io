@@ -19,6 +19,10 @@ description: Andrei Ciupan
   </div>
 </div>
 
+<img src="{{site.logo}}" align = "right">
+
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./papers.md).
