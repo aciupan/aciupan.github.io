@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papera
+title: Papers
 permalink: /papers/
 ---
 
