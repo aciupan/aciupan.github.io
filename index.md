@@ -1,14 +1,10 @@
 ---
 layout: default
-title: Andrei Ciupan
-tagline: Andrei Ciupan
-description: Andrei Ciupan
 ---
-<p> <img src="{{site.logo}}" align="right"> </p> 
-Hi! I'm Andrei Ciupan. I'm a Harvard graduate (B.A. Math '14, MA Economics '18) broadly interested in research and new topics in computer science, economics and statistics.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./papers.md).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
