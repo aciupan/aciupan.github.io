@@ -1,13 +1,13 @@
 ---
 layout: default
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Andrei Ciupan
+tagline: Andrei Ciupan
+description: Andrei Ciupan
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./papers.md).
 
 There should be whitespace between paragraphs.
 
