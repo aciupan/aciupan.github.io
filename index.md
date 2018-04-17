@@ -4,21 +4,6 @@ title: Andrei Ciupan
 tagline: Andrei Ciupan
 description: Andrei Ciupan
 ---
-{% if site.logo %}
-<img src="{{site.logo}}" alt="Logo" />
-{% endif %}
-
-
-<div class="group">
-  <div class="text">
-    Your text here
-  </div>
-
-  <div class="images">
-    <img src="{{site.logo}}">
-  </div>
-</div>
-
 <p>This text appears to the right of the image.
 dddddddddddddddddddddddddddddddddddddddd
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd. <img src="{{site.logo}}" align="right"> </p> 
