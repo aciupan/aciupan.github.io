@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-Hi! I'm Andrei Ciupan. I'm interested in research and new topics in computer science, statistics and economics. Find out more [about me](./about.html), check out my papers and my github.
+Hi! I'm Andrei Ciupan. I'm interested in research and new topics in computer science, statistics and economics. Find out more [about me](about.html), check out my papers and my github.
