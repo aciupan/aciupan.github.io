@@ -20,7 +20,8 @@ description: Andrei Ciupan
 </div>
 
 <img src="{{site.logo}}" style="float:left"/>
-This text appears to the right of the image.ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+This text appears to the right of the image.
+dddddddddddddddddddddddddddddddddddddddd
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <br clear=”left” />
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
