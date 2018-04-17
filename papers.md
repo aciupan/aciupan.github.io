@@ -10,7 +10,7 @@ Here are some of my research and expository papers in computer science and econo
 
 *   [Shor's Algorithm](/assets/pdf/Shor.pdf)
 
-After taking quantum computing (math 162) in college and cryptography (cs 227) in grad school, I decided to write a self-contained paper introducing quantum computing and proving Shor's quantum computing algorithm for breaking RSA encryption.
+This paper introduces quantum computing and proves Shor's quantum computing algorithm for breaking RSA encryption. I like the fact that it is self-contained.
 
 *   [Derandomized Squaring of Graphs](/assets/pdf/Derandsq.pdf)
 
