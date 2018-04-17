@@ -8,6 +8,17 @@ description: Andrei Ciupan
 <img src="{{site.logo}}" alt="Logo" />
 {% endif %}
 
+
+<div class="group">
+  <div class="text">
+    Your text here
+  </div>
+
+  <div class="images">
+    <img src="{{site.logo}}">
+  </div>
+</div>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./papers.md).
