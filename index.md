@@ -22,8 +22,10 @@ description: Andrei Ciupan
 
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-<img src="{{site.logo}}" align = "right">
+<img src="{{site.logo}}" align = "right"/>
+This text appears to the right of the image. 
 
+<BR CLEAR=”left” />
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
