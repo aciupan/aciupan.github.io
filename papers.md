@@ -6,7 +6,7 @@ permalink: /papers/
 Here are some of my research and expository papers in computer science and economics.
 
 
-#### Computer Science
+## Computer Science
 
 *   [Shor's Algorithm](/assets/pdf/Shor.pdf)
 
@@ -16,7 +16,7 @@ After taking quantum computing (math 162) in college and cryptography (cs 227) i
 
 This is the final project for a computational complexity course (cs 221). We describe the [paper of Rozeman and Vadhan](https://people.seas.harvard.edu/~salil/research/derand_squaring-abs.html). They introduce a new technique for proving that the problem of outputting a path between two vertices in a graph can be solved in log space.
 
-#### Economics
+### Economics
 
 I have done research in auction theory and market design, with professors [Eric Maskin](https://scholar.harvard.edu/maskin/home) and [Scott Kominers](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905)
 
