@@ -19,6 +19,9 @@ description: Andrei Ciupan
   </div>
 </div>
 
+
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <img src="{{site.logo}}" align = "right">
 
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
