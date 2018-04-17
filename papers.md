@@ -26,4 +26,4 @@ One of the problems I have been thinking about is how to connect the preference 
 
 * [An Elementary Proof of The Lone Wolf Theorem](/assets/pdf/lonewolf.pdf)
 
-In this paper with [John Hatfield](https://www.mccombs.utexas.edu/Directory/Profiles/Hatfield-John) and [Scott Kominers](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905), we prove a classical theorem of Blum and Rothblum in an elementary way. The proof method is similar to the preference cycles method in the paper above.
+In this paper with [John Hatfield](https://www.mccombs.utexas.edu/Directory/Profiles/Hatfield-John) and [Scott Kominers](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=500905), we prove a classical theorem of Blum and Rothblum: when a new agent enters an economy with a stable matching, the resulting market equilibration process(sequentially proposing to all possible matches which hadn't been proposed to yet) finalizes in a stable matching. This proof is connected to the method from the first economics paper I linked to above.
