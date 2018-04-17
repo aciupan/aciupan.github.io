@@ -19,13 +19,11 @@ description: Andrei Ciupan
   </div>
 </div>
 
-
-ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <img src="{{site.logo}}" align = "right"/>
 This text appears to the right of the image. 
-
-<br clear=”right” />
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+<br clear=”left” />
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
