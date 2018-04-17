@@ -25,7 +25,7 @@ ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 <img src="{{site.logo}}" align = "right"/>
 This text appears to the right of the image. 
 
-<BR CLEAR=”right” />
+<br clear=”right” />
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
