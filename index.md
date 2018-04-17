@@ -4,9 +4,7 @@ title: Andrei Ciupan
 tagline: Andrei Ciupan
 description: Andrei Ciupan
 ---
-<p>This text appears to the right of the image.
-dddddddddddddddddddddddddddddddddddddddd
-ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd. <img src="{{site.logo}}" align="right"> </p> 
+<p> <img src="{{site.logo}}" align="right"> </p> 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
