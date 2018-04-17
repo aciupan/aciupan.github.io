@@ -23,7 +23,6 @@ I have done research in auction theory and market design, with professors [Eric 
 * [Efficient Auctions With Common Values](/assets/pdf/efficient_auctions.pdf)
 
 This was my undergraduate senior thesis, under the guidance of professors [Eric Maskin](https://scholar.harvard.edu/maskin/home) and [Barry Mazur](http://www.math.harvard.edu/~mazur/)
-
 In an earlier paper, Maskin and Dasgupta provide an efficient auction setup for the case of multiple goods, common values and one-dimensional signals. I provide an efficient auction setup for multi-dimensional goods as well, under a linear utility restriction.
 
 * [Preference cycles in stable matchings](/assets/pdf/Prefcycle.pdf)
