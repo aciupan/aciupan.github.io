@@ -12,7 +12,6 @@ Here are some of my projects.
 *   Composing music with recurrent neural networks
 
 <audio controls>
-  <source ="assets/mp3/song2.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+  <source ="assets/mp3/song2.mp3" type="audio/mpeg"> 
 </audio>
 
