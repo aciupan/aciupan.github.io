@@ -14,6 +14,10 @@ Here are some of my projects.
 Updated
 
 <audio controls>
+  <source = "assets/mp3/song2.mp3" type="audio/mpeg"> 
+</audio>
+
+<audio controls>
   <source = "/assets/mp3/song2.mp3" type="audio/mpeg"> 
 </audio>
 
