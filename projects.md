@@ -11,8 +11,7 @@ Here are some of my projects.
 
 *   Composing music with recurrent neural networks
 
-Updated
-
+Using a recurrent neural network infrastructure trained on [a dataset of folk tunes](https://github.com/jukedeck/nottingham-dataset), I wrote a program which composes new songs. Examples below:
 [example](/assets/mp3/song2.mp3)
 
 
