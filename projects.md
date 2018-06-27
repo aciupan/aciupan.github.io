@@ -11,6 +11,8 @@ Here are some of my projects.
 
 *   Composing music with recurrent neural networks
 
+Updated
+
 <audio controls>
   <source ="assets/mp3/song2.mp3" type="audio/mpeg"> 
 </audio>
