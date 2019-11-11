@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-My current public projects and notebooks is available [here](https://colab.research.google.com/drive/1jGlpdfU542vuV1kfDjAer07wom8BMl5R)
+My current list of public projects and notebooks is available [here](https://colab.research.google.com/drive/1jGlpdfU542vuV1kfDjAer07wom8BMl5R)
 
 Below is an outdated list
 
