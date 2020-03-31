@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: https://colab.research.google.com/drive/1jGlpdfU542vuV1kfDjAer07wom8BMl5R#scrollTo=IFIBSFUv1vi_
 ---
 Current projects and public notebooks are available [here](https://colab.research.google.com/drive/1jGlpdfU542vuV1kfDjAer07wom8BMl5R)
 
