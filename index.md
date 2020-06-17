@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-Hi! I'm Andrei Ciupan. I graduated from Harvard (Mathematics B.A. '14, Economics M.A. '18). I'm interested in research in computer science and statistics. Check out [my papers](/papers/), [projects](https://colab.research.google.com/drive/1jGlpdfU542vuV1kfDjAer07wom8BMl5R#scrollTo=IFIBSFUv1vi_) and [github](https://github.com/aciupan).
+Hi! I'm Andrei Ciupan. I graduated from Harvard (Mathematics B.A. '14, Economics M.A. '18). I'm interested in research in computer science and statistics. Check out [my projects](https://colab.research.google.com/drive/1jGlpdfU542vuV1kfDjAer07wom8BMl5R#scrollTo=IFIBSFUv1vi_),  [github](https://github.com/aciupan) and [papers](/papers/).
