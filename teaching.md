@@ -8,7 +8,7 @@ I am excited about teaching math-related topics, including SAT Math and probabil
 
 I am currently teaching SAT Math to 10+ motivated high school students, through [Upgrade Education](https://www.linkedin.com/company/upgradeeducation/mycompany/).
 
-While I was an undergrad and master's student at Harvard, I was a course assistant for the following courses:
+While I was an undergrad and master's student at Harvard, I was a course assistant for the following courses: 
 - Math 143 Set Theory
 - Math 155 Combinatorics
 - Econ 2099 Market Design
