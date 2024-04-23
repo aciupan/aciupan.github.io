@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-My website is here : [https://www.andreiteaching.com/](https://www.andreiteaching.com/)
+My website is here: [https://www.andreiteaching.com/](https://www.andreiteaching.com/)
